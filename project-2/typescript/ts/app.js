@@ -1,4 +1,4 @@
-"use strict";
+
 // Q1 Create a program to reverse a given number using a loop.
 document.write("<h2>Q1 Create a program to reverse a given number using a loop.</h2>");
 let num = 256;
